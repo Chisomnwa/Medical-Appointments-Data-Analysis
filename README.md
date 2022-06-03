@@ -36,3 +36,7 @@ I used countplot to introduce each of these independent variables one by one , n
 to patients showing up for their appointments using countplots too.
 
 I also used color palletes to seperate the indepent and dependent variables. This is to show the difference between the plots.
+
+## Blog Post
+
+[On Medium](https://medium.com/@chisompromise/medical-appointments-data-analysis-3c9dad154250)
